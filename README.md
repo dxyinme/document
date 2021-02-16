@@ -1,2 +1,3 @@
-# document
-the document about nebulaPlace
+# nebulaPlace
+
+[中文版](README_CN.md)
