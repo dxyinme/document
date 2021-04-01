@@ -6,6 +6,8 @@
 
 1. [消息队列](mq/mq_cn.md)
 2. [搜索引擎]()
+3. [Raft](raft/raft_cn.md)
+4. [udpx](udpx/udpx_cn.md)
 
 ## 文档撰写要求
 
